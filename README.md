@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<!--
-**chatvini/chatvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ML, python
-- 🌱 I’m currently learning to hone my skillset
+- 🔭 I’m Vini Chaturvedi, the Data Enthusiast!
+- 🌱 Key Areas: ML in Python,SQL,R Studio,Natural Language Processing,Power BI,Tableau,Hadoop.
 - 👯 I’m looking to collaborate on ML models
 - 📫 How to reach me: email me - chat.vini@gmail.com
+- 📖 LinkedIn - https://www.linkedin.com/in/vini-chaturvedi-868871144/
+- 🌏 Website - https://chatvini.github.io/
